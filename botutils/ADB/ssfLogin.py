@@ -7,5 +7,5 @@ Updated token on 10/24/2018
 '''
 
 user = 'dataoperations+1@summitps.org'
-password = 'R^EemSr7Ef'
-token = '0dstxxXSOvnkJgyu6g0qjJTK'
+password = 'F5kqY*I6MO4%FR'
+token = 'QDOkjtpNiUtQ4xDuaTE7JX9AY'
