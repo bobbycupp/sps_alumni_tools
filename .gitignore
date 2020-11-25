@@ -105,3 +105,5 @@ new_enr_04_23_2020.csv
 con_long_04_23_2020.csv
 con_update_04_23_2020.csv
 import_nsc_output.csv
+nsc_inputs/10055266hsst_10055266-129286-DETAIL-EFFDT-20201114-RUNDT-20201123.csv
+botutils/ADB/ssfLogin.py
