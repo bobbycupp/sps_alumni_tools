@@ -100,3 +100,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+enr_update_04_23_2020.csv
+new_enr_04_23_2020.csv
+con_long_04_23_2020.csv
+con_update_04_23_2020.csv
+import_nsc_output.csv

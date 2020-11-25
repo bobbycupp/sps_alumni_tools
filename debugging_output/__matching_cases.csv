@@ -1,0 +1,15 @@
+Matching case,Frequency
+Perfect Match,2902
+Attending but DB had T/W,801
+(NSC only) New attending enrollment,229
+Unexpected graduation (had different status),36
+(DB Only) Attending,27
+Unreported left college (was Attending),25
+Perfect Match w Start +/- 60 days off,14
+(NSC only) New withdrew enrollment,8
+(NSC only) New graduated enrollment,6
+T/W match chg end dates,6
+(DB Only) Withdrew,6
+"Status matches, but different start dates",3
+(DB Only) Transferred out,3
+(NSC only) New transferred out enrollment,2
