@@ -3,9 +3,11 @@
 This file is just for saving login details (in clear text)
 To use, update the three member variables below to match
 your login credentials
-Updated token on 10/24/2018
+Updated token Nov 2020
+
+Find latest details in LastPass.
 '''
 
 user = 'dataoperations+1@summitps.org'
-password = 'F5kqY*I6MO4%FR'
-token = 'QDOkjtpNiUtQ4xDuaTE7JX9AY'
+password = 'qxm&85U!w$'
+token = 'Nuqf32C1SL0vhnLvP4e6V3Ks'
