@@ -100,12 +100,11 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-enr_update_04_23_2020.csv
-new_enr_04_23_2020.csv
-con_long_04_23_2020.csv
-con_update_04_23_2020.csv
+enr_*.csv
+new_e*.csv
+con_lo*.csv
+con_up*.csv
 import_nsc_output.csv
-nsc_inputs/10055266hsst_10055266-129286-DETAIL-EFFDT-20201114-RUNDT-20201123.csv
+nsc_inputs/10055266*.csv
 botutils/ADB/ssfLogin.py
-botutils/ADB/ssfLogin.py
-botutils/ADB/ssfLogin.py
+data/10055266hsst_10055266-125730-DETAIL-EFFDT-20200918-RUNDT-20201014.csv
